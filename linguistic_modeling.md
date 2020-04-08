@@ -2,7 +2,9 @@ layout: page
 title: "Linguistic Modelling At Scale"
 permalink: /linguistic_modeling/
 
-## Problem
+## Linguistic Modelling At Scale
+
+### Problem
 Raw unstructured text data has high value for insight but is tough to work with. 
 
 Buried within text data is;
@@ -10,7 +12,7 @@ Buried within text data is;
 * What your next product should do for your customers
 * What the dominant zeitgeists are within your customers... and how they will progress in the future
 
-## Impact
+### Impact
 I've written 2 academic papers on this area that not only do the work of 2 weeks of 5 researchers time in half a day, I've also derived novel insights and understandings of social groups that had eluded identification from talented scholars. 
 
 My research papers are: 
@@ -19,7 +21,7 @@ My research papers are:
 
 Furthermore, I'm currently developing a research paper that not only models unknown topics within user groups, it also forecasts the popularity of these topics to better aid tactical planning to engage with these topics.
 
-## Method
+### Method
 A generalised methodology follows this process that I manage and implement: 
   1. Data collection (web scraping or sql extraction)
   2. Data cleaning 
