@@ -1,40 +1,18 @@
-## Welcome to GitHub Pages
+## J B Mountford Data Science & Analysis
 
-You can use the [editor on GitHub](https://github.com/ChamRoshi/ChamRoshi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Expertise and accuracy based on proven projects for Brighton based businesses. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+By dividing time between academic analysis and business based, high-impact projects, we prove a high ROI place for boutique data science consultancy. 
+
+By prioritizing marketing oriented data analysis, we're able to offer a laser focus on impact ROI that translates to measurable improvements to your department's bottom line. Our offering is split between core offerings that have proven impacts and reliable results and boutique analysis that were built to customer requirements. 
+
+If you have a suspicion that these methods can help you then send an [email setting out your business question](mailto:joedatascience@gmail.com) 
 
 ### Core Services
 
 * [Probability To Convert Modeling](/conversion_prediction)
 * [Linguistic Modeling At Scale](/linguistic_modeling)
-* [Unknown Unknown Analysls](/unknown_unknown_analysis)
+* [Unknown Unknown Analysis](/unknown_unknown_analysis)
 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChamRoshi/ChamRoshi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
