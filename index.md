@@ -14,5 +14,6 @@ If you have a suspicion that these methods can help you then send an [email sett
 * [Linguistic Modeling At Scale](/linguistic_modeling)
 * [Unknown Unknown Analysis](/unknown_unknown_analysis)
 
+### Boutique Analysis
 
-
+* [Business Impact Forecasting](/business_impact_forecasting)
