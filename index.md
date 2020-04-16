@@ -17,3 +17,4 @@ If you have a suspicion that these methods can help you then send an [email sett
 ### Boutique Analysis
 
 * [Business Impact Forecasting](/business_impact_forecasting)
+* [Innovative Data Journalism](/data_journalism)
