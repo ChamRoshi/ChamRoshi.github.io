@@ -1,4 +1,4 @@
-## J B Mountford Data Science & Analysis
+## J.B. Mountford Data Science & Analysis
 
 Expertise and accuracy based on proven projects for Brighton based businesses. 
 
