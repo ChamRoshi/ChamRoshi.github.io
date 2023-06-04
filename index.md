@@ -3,7 +3,7 @@ layout: page
 title: The page title
 subtitle: The page subtitle
 ---
-<!-- 
+
 ## J.B. Mountford Data Science & Analysis
 
 Expertise and accuracy based on proven projects for Brighton based businesses. 
@@ -24,4 +24,4 @@ If you have a suspicion that these methods can help you then send an [email sett
 
 * [Business Impact Forecasting](/business_impact_forecasting)
 * [Innovative Data Journalism](/data_journalism)
- -->
+
