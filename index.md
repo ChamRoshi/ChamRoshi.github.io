@@ -1,3 +1,8 @@
+layout: page
+title: The page title
+subtitle: The page subtitle
+
+
 ## J.B. Mountford Data Science & Analysis
 
 Expertise and accuracy based on proven projects for Brighton based businesses. 
