@@ -1,7 +1,8 @@
+---
 layout: page
 title: The page title
 subtitle: The page subtitle
-
+---
 
 ## J.B. Mountford Data Science & Analysis
 
